@@ -8,7 +8,7 @@
     # custom tag verion image for execute robot framework
     image_version: # default is latest
     # Directory where Robot tests are located in the repository
-    tests_dir: # TestsCases/
+    tests_dir: ./TestsCases/
     # Where will the report from test be saved
     reports_dir: # default is reports
     # Shared memory that Docker container is allowed to use
